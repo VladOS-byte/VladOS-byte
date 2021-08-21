@@ -21,7 +21,8 @@
 
 ### Russian resume
 
-<img width="687" alt="Resume" src="https://user-images.githubusercontent.com/57577113/130318446-62806c28-274b-4f37-8cdf-e7f051245c9d.png">
+<img width="653" alt="Resume" src="https://user-images.githubusercontent.com/57577113/130327536-8bdd7eee-d6f9-4502-8c65-c2f312eaf504.png">
+
 
 
 
