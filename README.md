@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/OS-Linux_(CentOS)-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java_(Android)-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin_(Android)-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift_(iOS)-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
