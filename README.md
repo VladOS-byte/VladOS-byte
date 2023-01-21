@@ -25,8 +25,8 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=&logoColor=white&color=marron)
-![](https://img.shields.io/badge/React?style=flat&logo=&logoColor=white&color=marron)
-![](https://img.shields.io/badge/Vue.js?style=flat&logo=&logoColor=white&color=marron)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=&logoColor=white&color=marron)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=&logoColor=white&color=marron)
 
 ### Russian resume
 
