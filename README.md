@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on dispatching program for modems and routers by [IRZ Company](https://www.irz.net) in [Radiofid company](https://www.radiofid.ru).
 - 📖 I'm currently studing at the ITMO University in Saint Petersburg now.
-- 🌱 I’m currently learning Vue.js for Web cross-platform host-dispatching program.
+- 🌱 I’m currently learning Redis and RabbitMQ for increasing system stability and query acceleration.
 - 📫 How to reach me: e-mail pavlov.workbox@ya.ru
 
 ### Technologies & Tools.
