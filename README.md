@@ -30,7 +30,7 @@
 
 ### Russian resume
 
-<img width="1001" alt="Resume 2" src="https://user-images.githubusercontent.com/57577113/202562869-d3273ad6-0e19-45e2-9e93-a0603a0bc714.png">
+![См](https://github.com/user-attachments/assets/14662d9d-90ef-46d7-a864-6b2cd346f80c)
 
 
 
