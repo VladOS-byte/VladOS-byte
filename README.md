@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift_(iOS)-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=&logoColor=white&color=blue)
