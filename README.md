@@ -24,6 +24,8 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=&logoColor=white&color=marron)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=&logoColor=white&color=marron)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=&logoColor=white&color=marron)
